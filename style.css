@@ -70,7 +70,7 @@ button {
 button:hover{
   background: white;
   color: black;
-box-shadow: 1px 1px 2px 3px yellow;
+box-shadow: 1px 1px 1px 1px yellow;
 
 }
 .eqBtn {
@@ -80,7 +80,7 @@ box-shadow: 1px 1px 2px 3px yellow;
 .eqBtn:hover{
   background: limegreen;
   color: black;
-  box-shadow: 1px 2px 2px 2px orange;
+  box-shadow: 1px 1px 1px 1px orange;
 }
 .operators {
   color: green;
@@ -90,7 +90,7 @@ box-shadow: 1px 1px 2px 3px yellow;
 .operators:hover{
   background: orangered;
   color: white;
-  box-shadow: 1px 2px 2px whitesmoke;
+  box-shadow: 1px 1px 1px whitesmoke;
 }
 
 /* Media query for medium devices (up to 768px) */
@@ -122,7 +122,7 @@ box-shadow: 1px 1px 2px 3px yellow;
   button {
     width: 52px;
     height: 52px;
-    margin: 15px;
+    margin: 8px;
     font-size: 20px;
   }
 }
@@ -188,7 +188,7 @@ box-shadow: 1px 1px 2px 3px yellow;
   button {
     width: 45px;
     height: 45px;
-    margin: 6px;
+    margin: 5px;
     font-size: 16px;
    
    
